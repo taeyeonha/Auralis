@@ -22,6 +22,6 @@ Install following packages using pip:
 1. Download the folder containing Lo-Fi midi snippets (or any midi files of your choice)
 2. To train the model, you simply just run each code cell in model.ipynb and run the last cell to generate music
 
-### Next Steps
+# Next Steps
 
 I will probably look at papers/articles related to music generation to try and improve this model, as it is still in it's preliminary stages right now.
